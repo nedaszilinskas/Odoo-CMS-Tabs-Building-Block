@@ -1,12 +1,12 @@
 {
     'name': 'Tabs Building Block',
     'category': 'Website',
-    'summary': 'Tabs Building Block',
+    'summary': 'Building Block that allows you to create tabbed content',
     'version': '1.0',
     'description': """
-Tabs Building Block for Odoo CMS
+Tabs Building Block
 ======================================
-This custom module adds tabs building block to Odoo CMS.
+Building Block that allows you to create tabbed content
         """,
     'author': 'Nedas Žilinskas <nedas.zilinskas@gmail.com>',
     'website': 'http://nedaszilinskas.com',
