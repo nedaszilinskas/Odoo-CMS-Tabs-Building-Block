@@ -9,6 +9,7 @@ Tabs Building Block for Odoo CMS
 This custom module adds tabs building block to Odoo CMS.
         """,
     'author': 'Nedas Žilinskas <nedas.zilinskas@gmail.com>',
+    'website': 'http://nedaszilinskas.com',
     'depends': ['website'],
     'data': [
         'views/assets.xml',
