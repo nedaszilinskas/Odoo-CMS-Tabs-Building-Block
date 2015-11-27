@@ -15,5 +15,7 @@ Building Block that allows you to create tabbed content
         'views/assets.xml',
         'views/snippet.xml'
     ],
-    'installable': True
+    'installable': True,
+    "price": 0,
+    "currency": "EUR",
 }
