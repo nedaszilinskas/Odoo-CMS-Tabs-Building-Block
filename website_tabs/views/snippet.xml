@@ -2,7 +2,7 @@
 <openerp>
     <data>
         <template id="custom_snippet_tabs" inherit_id="website.snippets">
-            <xpath expr="//div[@id='snippet_structure']" position="inside">
+            <xpath expr="//div[@id='snippet_structure']/div[@class='o_panel_body']" position="inside">
 
                 <div>
                     <!-- Thumbnail -->
